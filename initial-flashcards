@@ -1,8 +1,0 @@
-What is a factorial design? When an experiment has a two or more independent variables it is called a factorial design.
-
-Name the types of factorial designs. Describe.
-1. Independent factorial design: Several independent variables or predictors and each has been measured using different entities, meaning we are comparing between groups.
-2. Repeated-measures (related) factorial design: several independent variables or predictors have been measured but you use the same group of people for each one of these condidtions. 
-3. Mixed-design: Design where several independent variables or predictors have been measured where some predictors measure different entities and other predictors measure the same entities.
-
-Is a factorial ANOVA a linear model? Yes. 

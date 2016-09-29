@@ -1,0 +1,26 @@
+What is a factorial design? When an experiment has a two or more independent variables it is called a factorial design.
+
+Name the types of factorial designs. Describe.
+1. Independent factorial design: Several independent variables or predictors and each has been measured using different entities, meaning we are comparing between groups.
+2. Repeated-measures (related) factorial design: several independent variables or predictors have been measured but you use the same group of people for each one of these condidtions. 
+3. Mixed-design: Design where several independent variables or predictors have been measured where some predictors measure different entities and other predictors measure the same entities.
+
+Is a factorial ANOVA a linear model? Yes. 
+
+In a factorial ANOVA you can calculate the degrees of freedom by subtracting 1 from the number of groups, k. That means df = k - 1. 
+
+The interesting thing is that I can multiply the numbers such as 2 X 2 ANOVA, which would be 4. The result is k, the number of groups, minus 1 = number of degrees of freedom. 
+One of the tricky things is figuring out what 2 x 2 ANOVAs mean. Each value intered is the number levels in the independent variable. I haven't heard it described this way but I think of the independent variable as a placeholder that is filled by the number of levels for that particular independent variable. Examples below.
+
+[ ] x [ ] x [ ] ANOVA  
+//I'm thinking of the brackets as placeholders. So we know that there are three placeholders = three independent variables. Now let's fill the brackets with the number of levels.
+
+[2] x [3] x [2] ANOVA
+//Here we see the number of levels of each independent variable for the ANOVA. 
+
+What is a "level"? Can you give an example?
+Yes. Say an experiment has an independent variable of two groups, the difficult vs. easy math questions. That's a 2-level independent variable. 
+The second IV has three groups, those who are sober, drink two beers, and six beers. That's three levels.
+The third IV has two groups including males and females for a total of two levels. 
+When you put all of this together, you have the number of cells representing the total number of groups including those with interactions.
+In this case you multiply 2 x 3 x 2 = 12 cells.
