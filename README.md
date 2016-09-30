@@ -1,2 +1,3 @@
 # statistics-flashcards
-This is a repo for statistics flashcards. I am in my final year of a business psychology PhD in a quantitative program and we work a lot with statistics. This semester, I am teaching assistant for two graduate level statistics courses and wanted to organize these concepts for my students.
+This is a repo for statistics flashcards. If you are learning or teaching statistics and would like to help others learn key concepts, please contribute. Even the smallest addition can be the lightbulb moment for someone else even if they never write to tell you that. 
+(About me: I am in my final year of a business psychology PhD in a quantitative program and we work a lot with statistics. This semester, I am teaching assistant for two graduate level statistics courses and wanted to organize these concepts for students, though not necessarily my own students. I think they would really appreciate seeing more materials added here.)
